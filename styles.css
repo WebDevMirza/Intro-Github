@@ -2,7 +2,11 @@
   box-sizing: border-box;
 }
 
-body{
+a {
+  list-style: none;
+}
+
+body {
   color: white;
   background: black;
 }
